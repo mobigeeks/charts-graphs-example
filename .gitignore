@@ -1,0 +1,17 @@
+*.ipr
+*.iml
+.gradle
+local.properties
+
+build
+
+.metadata
+AndroidPlot-Core/target
+AndroidPlot-Core/.settings
+DemoApp/.settings
+DemoApp/bin
+DemoApp/gen
+DemoApp/target
+.idea/libraries
+.idea/*.xml
+**/R.java
